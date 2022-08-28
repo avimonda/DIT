@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+.global_heading{
+    font-size: 35px;
+}
+
+.underline{
+    border-top: 5px solid rgba(0, 0, 0, 0.655);
+    width: 7%;
+    margin: auto;
+}
+/*---------------- header css start----------- */
+header{
+    width: 100%;
+    float: left;
+    background-color: #87509c;
+    color: #fff;
+}
+
+
+nav{
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+}
+.logo_part{
+    width: 50%;
+    float: left  
+}
+.menu_part{
+    width: 50%;
+    float: left;
+    padding: 10px 0px;
+    text-align: end;  
+}
+
+.menu_part li{
+    display: inline-block;
+    margin: 0px 10px;
+    padding: 7px;
+    border-radius: 4px;
+    transition: all linear .4s;
+}
+
+.menu_part li:hover{
+    background-color: #00000074;
+}
+
+.menu_part a{
+    font-size: 18px;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.hero_part{
+    width: 100%;
+    float: left;
+    margin: 150px 0px;
+    text-align: center;
+}
+
+
+.hero_part h1{
+    font-size: 40px;
+    font-weight: 600;
+    width: 60%;
+    margin: auto;
+}
+
+.hero_part a button{
+    width: 15%;
+    padding: 10px;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #eb7d4b;
+    transition: all linear .3s;
+}
+
+.hero_part a button:hover{
+    border-radius: 4px;
+    box-shadow: 11px 11px 8px -6px rgba(232,78,13,0.5);
+    -webkit-box-shadow: 11px 11px 8px -6px rgba(232,78,13,0.5);
+    -moz-box-shadow: 11px 11px 8px -6px rgba(232,78,13,0.5);
+}
+/*---------------- header css end ----------- */
+
+
+/* ---------------service section start----------------- */
+
+#service{
+    width: 100%;
+    float: left;
+    background-color:#17c2a4 ;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0px ;
+}
+
+.service_writing_part{
+    width: 100%;
+    float: left;
+}
+
+
+.service_box_part{
+    margin-top: 50px;
+    width: 100%;
+    float: left;  
+}
+
+.service_box{
+    width: 25%;
+    float: left;
+    padding: 10px;
+}
+
+.service_box img {
+    height: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+/* ---------------service section start----------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
